@@ -1,2 +1,2 @@
 # BattleShip
-BattleShip Game made in C language
+BattleShip Game made with C language
